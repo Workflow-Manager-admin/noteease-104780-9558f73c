@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/noteease-104780-9558f73c/notes_frontend
+flutter analyze
+
